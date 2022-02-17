@@ -1,4 +1,4 @@
-# python_blockchain_app
+# Decentralised content sharing platform 
 
 A simple tutorial for developing a blockchain application from scratch in Python.
 
