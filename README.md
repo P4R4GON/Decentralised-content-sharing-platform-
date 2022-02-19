@@ -1,4 +1,4 @@
-# Decentralised content sharing platform 
+# A simple Decentralised content sharing platform made for fun
 
 A simple tutorial for developing a blockchain application from scratch in Python.
 
